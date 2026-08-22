@@ -5,7 +5,7 @@
 <a href="https://github.com/lettyalves1"> 
   
 # Hi, I´m Letícia Alves
-- <i>Futura Desenvolvedora de Front-End</i>
+- <i> Desenvolvedora de Front-End</i>
 ##
 <div class= "skills" style="display: inline_block"><br> <!-- Habilidades-->
   <img align="center" alt="HTML" width="32" height="" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
